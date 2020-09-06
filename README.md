@@ -3,7 +3,7 @@ A network simulation for propagation of misinformation. This was a course resear
 
 <object data="https://github.com/gallanoe/mis-sim/blob/master/report.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/gallanoe/mis-sim/blob/master/report.pdf">
-        <p>Report: <a href="https://github.com/gallanoe/mis-sim/blob/master/report.pdf">Download PDF</a>.</p>
+        <p>Here's the <a href="https://github.com/gallanoe/mis-sim/blob/master/report.pdf">report</a>.</p>
     </embed>
 </object>
 
